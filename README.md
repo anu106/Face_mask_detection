@@ -21,8 +21,11 @@ or poses of the person.
 # Data Set :-
 ●We used Face-mask-detection-4k-images dataset for training and 
 testing.
+
 ●It is a standard dataset which includes 4,000 images.
+
 ●It is equally divided into ‘Mask’ and ‘No Mask’ categories.
+
 ●The images are of various sizes, the faces are real as well as 
 animated and the pictures are taken at different angles.
 
